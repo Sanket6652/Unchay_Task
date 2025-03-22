@@ -103,3 +103,5 @@ You can use the [concurrently](https://www.npmjs.com/package/concurrently) packa
 - Make sure MongoDB is running if you're using a local database
 - Check the server console for any connection errors
 - The API will be available at `http://localhost:5000`
+
+![Screenshot 2025-03-22 155845](https://github.com/user-attachments/assets/6a64d497-9640-4229-a9ab-db85ee0683bf)
